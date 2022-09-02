@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/learning-use-context/static/css/main.a253883d.css",
+    "main.js": "/learning-use-context/static/js/main.0149e878.js",
+    "static/js/787.17f1f45b.chunk.js": "/learning-use-context/static/js/787.17f1f45b.chunk.js",
+    "index.html": "/learning-use-context/index.html",
+    "main.a253883d.css.map": "/learning-use-context/static/css/main.a253883d.css.map",
+    "main.0149e878.js.map": "/learning-use-context/static/js/main.0149e878.js.map",
+    "787.17f1f45b.chunk.js.map": "/learning-use-context/static/js/787.17f1f45b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a253883d.css",
+    "static/js/main.0149e878.js"
+  ]
+}
